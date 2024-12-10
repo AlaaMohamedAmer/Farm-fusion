@@ -72,4 +72,8 @@ Click on the *"Predict Crop"* button to receive a crop recommendation based on t
 
 [Ahmed Ashraf](https://github.com/Ghost301333)
 
+[Aya Bassam](https://github.com/Aya-Bassam)
+
+
+
 
