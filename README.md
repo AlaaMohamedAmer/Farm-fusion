@@ -65,8 +65,11 @@ Click on the *"Predict Crop"* button to receive a crop recommendation based on t
 
 ## Author
 [Eman Abd-Elhameed](https://github.com/EmanAbdelhaleem)
+
 [Eman Yaser](https://github.com/Eman92003)
+
 [Alaa Amer](https://github.com/AlaaMohamedAmer)
+
 [Ahmed Ashraf](https://github.com/Ghost301333)
 
 
